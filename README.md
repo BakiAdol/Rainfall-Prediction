@@ -1,7 +1,7 @@
 # Rainfall-Prediction
 
 # Output
-Using  Support Vector Classifier  : 
+Using  Support Vector Classifier  : <br />
 Confusion Matrix : 
 [[19 11]
  [ 4 58]]
